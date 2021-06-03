@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In the Parliament of the richt excellent, richt heich, and michtie prince, Iames the sext, be the grace of God King of Scottis, our souerane lord, begunne at Striuiling, the xxviij. day of August, the zeir of God ane thousand fyue hundreth thre scoir and elleuin zeiris, and in the fyrst zeir of his hienes regne Be his Maiesteis derrest gudschir vmquhile Mathew Erle of Lennox, Lord Dernelie. [et]c. regent to his hienes, his realme, and liegis: and thre estatis of this realme. And endit, and concludit vpon the seuint day of September nixt thairefter following, be vmquhile Iohne Erle of Mar. Lord Erskin. [et]c. being regent to his hienes, his said realme, and liegis for the tyme: and the saidis thre estatis. The actis, and constitutiounis following war concludit to be obseruit as lawis in tyme cumming.</title>
+            <title>Laws, etc.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A11633</idno><idno type="EEBO-CITATION">99855973</idno>
+  <idno type="VID">21486</idno>
+  <idno type="EEBO-PROQUEST">2240888035</idno>
+  <idno type="STC">STC 21882</idno>
+  <idno type="STC">ESTC S120779</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99855973e"/>
+            <note>(EEBO-TCP ; phase 2, no. A11633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 21486)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1530:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>In the Parliament of the richt excellent, richt heich, and michtie prince, Iames the sext, be the grace of God King of Scottis, our souerane lord, begunne at Striuiling, the xxviij. day of August, the zeir of God ane thousand fyue hundreth thre scoir and elleuin zeiris, and in the fyrst zeir of his hienes regne Be his Maiesteis derrest gudschir vmquhile Mathew Erle of Lennox, Lord Dernelie. [et]c. regent to his hienes, his realme, and liegis: and thre estatis of this realme. And endit, and concludit vpon the seuint day of September nixt thairefter following, be vmquhile Iohne Erle of Mar. Lord Erskin. [et]c. being regent to his hienes, his said realme, and liegis for the tyme: and the saidis thre estatis. The actis, and constitutiounis following war concludit to be obseruit as lawis in tyme cumming.</title>
+                  <title>Laws, etc.</title>
+                  <author>Scotland.</author>
+                  <author>Makgill, Jacobus.</author>
+               </titleStmt>
+               <extent>xii leaves   </extent>
+               <publicationStmt>
+                  <publisher>Be Robert Lekpreuik,</publisher>
+                  <pubPlace>Imprentit at Sanctandrois :</pubPlace>
+                  <date>Anno Do. M.D.LXXIII. [1573]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end by compiler: Jacobus Makgill [xylographic].</note>
+                  <note>Reproduction of the original in the University of Edinburgh. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="sco">sco</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="sco">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:21486:1"/>
+            <pb facs="tcp:21486:1"/>
+            <p>
+               <hi>❧ IN THE PARLIAMENT OF</hi> the richt Excellent, richt heich, and michtie Prince, Iames the Sext, be the Grace of God King of Scottis, our Souerane Lord, be gunne at Striuiling, the xxviij. day of August, the ʒeir of God ane thousand fyue hundreth thre scoir and elleuin ʒeiris, and in the Fyft ʒeir of his hienes Regne. Be his Maiesteis derrest Gudschir vmquhile Mathew Erle of Lennox Lord Dernelie. &amp;c. Regent to his hienes, his Realme, and Liegis: and thre Estatis of this Realme. And endit, and concludit vpon the seuint day of September nixt thairefter fol<g ref="char:EOLhyphen"/>lowing, be vmquhile Iohne Erle of Mar, Lord Erskin. &amp;c. being Regent to his hienes, his said Realme, and Liegis for the tyme: and the saidis thre Estatis. The Actis, and Constitutiounis following war concludit to be obseruit as Lawis in tyme cumming.</p>
+            <p>Imprentit at Sanctandrois de Robert Lekpreuik. ANNO DO. M.D.LXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="acts">
+            <pb facs="tcp:21486:2"/>
+            <pb facs="tcp:21486:2"/>
+            <head>❧ IN PARLIAMENTO EX<g ref="char:EOLhyphen"/>CELLENTISSIMI, AC POTENTISSIMI PRINCIPIS Iacobi, eius nominis sexti, dei gratia Scotorum Regis Illustrissimi, tēto &amp; inchoato apud Sterlingū in praetorio eiusdē die 28. Augusti. Anno Do. Millesimo, quingē<g ref="char:EOLhyphen"/>tesimo, septuagesimo primo, ac anno Regni eiusdem quinto: per Charissimum suū Anum quondam Mathaeum Comitem Lennox, Dominum Dernelie, &amp;c. Et Dicti S. D. N. Regis, Regni, ac legiorum Regentem, praesentibus tribus Regni statibus. Finito &amp; absoluto, die septimo Septembris proxime sequenti, per Ioannem quon<g ref="char:EOLhyphen"/>dam Comitē Mar, Dominum Erskin. &amp;c. Et dicti S. D. N. Regis, Regni, ac Ie<g ref="char:EOLhyphen"/>giorū, pro tempore Regentem, praesentibus dictis tribus Regni statibus. Quae sequ<g ref="char:EOLhyphen"/>untur acta &amp; cōstitutiones conclusae &amp; sancitae sunt, vt leges postea obseruandae.</head>
+            <div n="1" type="chapter">
+               <head>¶Anent the Nominatioun, Electioun, Acceptatioun, and Approbatioun, of my Lord of Mar in Regent. Cap. j.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T is fund, declairit, and decernit be our Souerane Lord, with auise of the thre Estatis, &amp; haill body of this present Parliament, yat the nominatioū, cōsti<g ref="char:EOLhyphen"/>tutioun, electioun, and ordinatioun of the Nobill, &amp; michtie Lord Iohne Erle of Mar, Lord Erskin, &amp;c. in Regent to our Souerane Lord, this his Realme and liegis thairof during the tyme of his Maiesteis Minoritie, and les age, specifyit and expressit in the Quene his hienes Motheris letteris vnder hir subscriptioun and preuie seill, of ye dait ye xxiiij. day of Iulij, the ʒeir of God ane thousand fyue hūdreth thre scoir seuin ʒeiris. Togidder alswa with the consent, and approbatioun of ye Erlis, Lordis, Prelattis, Cōmissionaris of Burrowis, Barrounis, &amp; v<g ref="char:EOLhyphen"/>theris faithfull subiectis conuenit and assemblit to that effect. And the acceptatioun of the said office of Regentrie be ye said Erle of Mar vpō the vj. day of September instant, was, is, and in all tyme cūming salbe haldin, repute, and estemit lauchfull, sufficient, and perfite. And all, and quhatsumeuer thingis quhilkis he hes done be vertew of his said office of Regētrie sen his acceptatioū thairof, or quhilkis he sall do heirefter in our said Souerane Lordis name and authoritie, during the time of his hienes Minoritie, specifyit in the said Cōmissioun. To be als dewly, lauchfully, sufficiently, &amp; richteously done, and to haue als greit auaill, strenth, force, and effect in all respectis and conditiounis, as ony thing done be quhatsumeuer Regentis, Gouernouris, or Protectouris of yis Realme, in the Minoriteis, and les ages of ony vtheris natiue Princes of the same. And ratefyis, approuis, &amp; confirmis the same nominatioū, electioun, constitutioun, &amp; acceptatioun for now and in tyme cūming.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>¶Ratificatioun, and approbatioun of the Actis, and statutis maid of befoir, anent the fredome, and libertie of the trew Kirk of God. Cap. ij.</head>
+               <p>
+                  <hi>ITEM</hi> Our Souerane Lord with auise, and consent of his said Regent, thre Estatis, and haill body of this pre<g ref="char:EOLhyphen"/>sent
+<pb facs="tcp:21486:3"/> Parliament hes ratifyit, and be this present Act ratifyis, &amp; appro<g ref="char:EOLhyphen"/>uis all and quhatsumeuer actis, and statutis maid of befoir be our So<g ref="char:EOLunhyphen"/>uerane Lord, or his Predecessouris anent the Fredome and libertie of the trew Kirk of God now publictlie professit within this Realme.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>¶Anent Alienatiounis, Resignatiounis, and vtheris maid, or to be maid be ony persounis conuict, or that sall happin to be conuict of the slauchteris of our Soue<g ref="char:EOLhyphen"/>rant Lordis Father or Regentis. Cap. iij.</head>
+               <p>
+                  <hi>ITEM</hi> It is decernit, and declarit be our Souerane Lord, with auise of my Lord Regentis grace, and thre E<g ref="char:EOLhyphen"/>statis, that all Alienatiounis, Resignatiounis, Dimissiounis, &amp; vtheris Dispositiounis quhatsumeuer maid, or to be maid be ony persoun, or persounis conuict, or that heirefter sall happin in ony wyse to be cōuict, or forfaltit for airt, and part of the tressonabill murtheris, &amp; slauchteris of vmquhile our Souerane Lordis derrest father, or Regētis of quhat<g ref="char:EOLunhyphen"/>sumeuer landis, heritageis, offices, benefices, rowmis, or possessiounis, sen the tymes respectiue of the cōmitting thairof, ar, and salbe null of thame selfis and of nane auaill, strenth, force, nor effect in all tymes cū<g ref="char:EOLhyphen"/>ming with all that followit, or sall happin to follow thairupon.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>Anent the Vassallis and fre tenuentis of sic as ar forfaltit in this Parliament. Ca. iiij</head>
+               <p>
+                  <hi>ITEM</hi> It is statute, ordanit, and declarit in plane Parlia<g ref="char:EOLhyphen"/>ment be our Souerane Lord, with auise and consent of his said Regent, thre Estatis, and haill body of this present Parlia<g ref="char:EOLhyphen"/>ment, That all persounis our Souerane Lordis trew and faithful sub<g ref="char:EOLunhyphen"/>iectis quhilk hes seruit, &amp; seruis his hienes in mātenāce of his authori<g ref="char:EOLhyphen"/>tie, hauing landis, heritage, ānuelrētis, lyferētis, pensioūis, or possessi<g ref="char:EOLhyphen"/>oūis quhatsūeuer haldin of ony persounis callit &amp; forfaltit in this presēt Parliament of quhatsumeuer crymes of tressoun, and lesemaiestie, sall bruik and Iois thair tenandreis quhatsumeuer, notwithstanding the forfalting of thair Superiouris thairof. And hald the samin of thair nixt Immediat Superiouris: Prouyding alwayis, that in case ony of the saidis Vassellis, or vtheris that sall happin to clame ony benefite be vertew of this Act, at ony tyme heirefter mak defectioun fra our So<g ref="char:EOLhyphen"/>uerane Lordis Authoritie, and obedience, or cum in the cōtrair thairof, that thay, nor nane of thame sall haue, nor bruik the priuilege, and bene<g ref="char:EOLhyphen"/>fite of this present Act, &amp; the samin sall na wyse be extendit vnto yame.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>¶Anent landis, rowmes, and possessiounis haldin of Freiris, or Nunnis within this Realme. Cap. v.</head>
+               <p>
+                  <hi>ITEM</hi> Forsamekle as thair ar diuers liegis, and subiectis of this Realme quhilkis hes sindrie landis, rowmes, &amp; possessiounis obtenit be thame, or thair predicessouris, in few, and heri<g ref="char:EOLhyphen"/>tage
+<pb n="iii" facs="tcp:21486:3"/> of the Priouris or Pryoressis motheris, and Conuentis of sindrie Freiris, and Nunnis places within this Realme, haldin of thame and thair successouris. And now sen the reformatioū of Religioun ye saidis Superiouris ar for the maist part deceissit, and na vtheris placit, nor to be placit in thair rowmes, swa that within schort space thay sall all decay, quhairthrow the airis of the saidis fewaris, &amp; vtheris heritabill tennentis of the saidis places, sall get na entrie to thair landis and he<g ref="char:EOLhyphen"/>ritage haldin of Freiris and Nunnis. For remeid thairof, it is statute and ordanit in this present Parliament, that all persounis, fewaris, or heritabil tennentis of sic Freiris, and Nunnis places, And yair airis efter the deceis, decay, or inlaik of yair said superiouris, hald, &amp; sall hald thair fewis, and tenandreis of the samin of our Souerane Lord, and his successouris in all tymes cūming siclyke, and als frely as thay held the samin of the places foirsaid{is} Pryouris, Pryoressis, or vtheris being thairin for the tyme. And the few maillis, seruices, and dewteis speci<g ref="char:EOLhyphen"/>fyit, and contenit in thair Infeftmentis to pertene to our Souerane Lord and his successouris to be intromettit, vptakin, and disponit at thair plesure. And that the airis of the saidis fewaris, and heritabill tennentis foirsaidis sall enter to thair fewis and tenandreis be breuis of our Souerane Lordis Chapell siclyke, and als frely, &amp; in the samin maner as the fewaris, and heritabill tennentis of our Souerane Lor<g ref="char:EOLhyphen"/>dis propertie in all tymes cumming.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>¶Anent the fredome and Priuilegeis of Burrowis. Cap. vj.</head>
+               <p>
+                  <hi>ITEM</hi> Our Souerane Lord be auise, and cōsent of his said Regent, and thre Estatis foirsaidis, ratifyis, approuis and confirmis all and sindrie auld Actis, and statutis maid of befoir, anent the fredome and priuilegeis of Burrowis.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>¶Anent Alienatiounis, Resignatiounis, and vtheris dispositiounis maid and geuin be ony persounis, Burgessis, and Inhabitātis of Edinburgh, or ony vther Burrow<g ref="char:EOLhyphen"/>is within this Realme that hes maid defectioun fra the Kingis authoritie. Ca. vij.</head>
+               <p>
+                  <hi>ITEM</hi> Our Souerane Lord with auise, and consent of his said Regent, thre Estatis, and haill body of this pre<g ref="char:EOLhyphen"/>sent Parliament hes statute, ordanit, decernit, and declarit that all, &amp; sindrie alienatioūis, resignatiounis, &amp; vtheris dispositiounis quhatsum<g ref="char:EOLhyphen"/>euer maid, and geuin in ony wyse be ony persounis, Burgessis, or In<g ref="char:EOLhyphen"/>habitātis within the Burgh of Edinburgh, or ony vtheris Burrowis of this Realme quhilkis hes maid defectioū fra our Souerane Lordis Authoritie, and assistit, and takin part with the cōspiratouris, and de<g ref="char:EOLhyphen"/>clarit tratouris to ony persoun, or persounis sen the committing of the saidis crymes be thame, or ony of thame of quhatsumeuer thair landis, heritageis, offices, takkis, stedingis, rowmes, or possessiounis quhatūs<g ref="char:EOLhyphen"/>ouer: Ar and salbe in tymes cūming null in thame selfis, and of nane
+<pb facs="tcp:21486:4"/> auaill, strenth, force, nor effect.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>¶That na Schippis saill without our Souerane Lordis Coquet. Cap. viij.</head>
+               <p>
+                  <hi>ITEM</hi> It is statute and ordanit be our Souerane Lord his Regent foirsaid, the thre Estatis, and hail body of yis present Parliament, that na Schippis pas furth of this Realme to the Realme of France, or ony vtheir{is} partis without our Souerane Lord{is} Coquet. And that na Coquet nor vther preuie wryting be purchest or takin of our Souerane Lordis Mother, hir pretendit Lieuteunentis, or ony vtheris in hir Name in na tyme cūming, vnder the pane of es<g ref="char:EOLhyphen"/>cheting of all sic Schippis, and haill gudis being thairin, and the per<g ref="char:EOLhyphen"/>sounis haifaris away of the saidis Schippis, or purchessaris, &amp; takaris of the said Coquettis, or vtheris wrytingis foirsaidis as said is: To be puneist in thair persounis, and gudis with all rigour.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>¶Anent Herauldis, Maissaris, Purseuantis, and vtheris Officiaris that seruit agauis our Souerane Lord and his authoritie. Cap. ix.</head>
+               <p>FOrsamekle as albeit the treuth, &amp; constancie of Herauldis, Mais<g ref="char:EOLhyphen"/>saris, Purseuantis, and vtheris Officiaris beiring Armes, aucht to be vnsuspect, or violet, and notwithstanding, that all our So<g ref="char:EOLhyphen"/>uerane Lordis liegis beiring that charge, and office hes publictly pro<g ref="char:EOLhyphen"/>fessit his hienes obediēce, and diuers of thame creatit be his Maiesteis Authoritie sen his hienes Coronatioun. To quhome thay haue sworne, and promysit thair allegeance. Ʒit as it is certanely vnderstand to my Lord Regentis grace, the thre Estatis, and haill body of this present Parliament, Peter Thomsoun Ilay Herauld, Adame Makculloch Merchmont Herauld, Iohne Forman Rothissay Herauld, Alexander Forester Carrik Purseuant, Alexander Makculloch Ormond Purse<g ref="char:EOLhyphen"/>uant, Williame Mailuile, Thomas Chreichtoun, Williame Purues Maissaris, Thomas Barry, Williame Barry pretendit Ettrik Purse<g ref="char:EOLhyphen"/>uantis or Messingeris, Thomas Ʒoung Messinger, with diuers v<g ref="char:EOLhyphen"/>theris Herauldis, Maissaris, Purseuantis, and Messingers of Armes neglectand thair faithis, aithis maid, the honour of thair office, and al<g ref="char:EOLhyphen"/>legeance aucht to our Souerane Lord: hes wilfully, and rebelliously castin of thair detfull obedience: and tressonabillie, not only accōpanyit the declarit tratouris, rebellis, and conspiratouris aganis our Soue<g ref="char:EOLhyphen"/>rane Lordis Authoritie (now being within the Castell and Burgh of Edinburgh) bot als in proper persounis displayit thair coittis of Ar<g ref="char:EOLhyphen"/>mes, bure thair Maisses, and vtherwyse fortifyit, assistit, &amp; tuke plane part with thame in thair lait tressonabill, pretendit, and arrogant pro<g ref="char:EOLhyphen"/>cedingis to the depriuatioun of our Souerane Lord from his Royall Crowne &amp; Authoritie. And my Lord Regentis grace, and thre Estatis foi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>saidis Considdering the plane, and manifest defectioun of the He<g ref="char:EOLhyphen"/>rauldis,
+<pb n="iiii" facs="tcp:21486:4"/> Maissaris, Purseuantis, and Messingeris aboue writtin from thair sworne faith and detful obedience being persounis quhilk{is} aboue all vtheris subiectis be dewtie of thair offices aucht to haue bene Ir<g ref="char:EOLhyphen"/>reuocabill, trew, and constant. And considdering lykewise that ye per<g ref="char:EOLhyphen"/>sounis foirsaidis being admonischit, &amp; requyrit be letteris of vmquhile our Souerane Lordis derrest Gudschir, and Regent, To withdraw thame selfis furth of the said Burgh of Edinburgh, and to cum attend vpon thair offices, not only abstractit thame selfis, lichtlyand &amp; cotēp<g ref="char:EOLhyphen"/>nand the said admonitioun, and charge: bot reuelit the persoun of the Messinger namit Steuin Story, and be thair default causit him be ap<g ref="char:EOLunhyphen"/>prehendit be the saidis declarit tratouris, rebellis, and conspiratouris, &amp; be put in vyle presoun and strait thraldome. Thairfoir our Souerane Lord with auise of his said Regent, thre Estatis, and haill body of this present Parliament hes declarit, and be this present Act declaris, that the persounis aboue writtin, and all vtheris Herauldis, Maissaris, Purseuantis, and Messingeris of Armes, quhilkis ar culpabill of the crymes aboue specityit hes, <hi>Ipso facto,</hi> tynt thair offices of Armes, de<g ref="char:EOLhyphen"/>ternand thair saidis offices presently be vertew of this Act to vaik, &amp; thay and euerie ane of thame to be estemit as Infame persounis heir<g ref="char:EOLhyphen"/>efter, and to be vsit and demanit as accordis of the Law, dischargeing the Thesaurer and Comptroller present, and to cū of all payment mak<g ref="char:EOLhyphen"/>ing to the saidis Herauldis, Maissaris, Purseuantis, Messingeris, and all vtheris Ordinar Officiaris outher within the Burgh, or Castell of Edinburgh presētly, of yair accustomit feis, and dewteis restand aw<g ref="char:EOLhyphen"/>and of ony ʒeiris or termes bygane or in time cūming, decerning alswa<g ref="char:EOLunhyphen"/>all executiounis to be maid be the saidis Officiaris of Armes in tymes cūming null in thame self, Inualide, and of nane effect in all tymes to cum.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>¶Anent the escheittis of the persounis cumin to the Kingis obedience. Cap. x.</head>
+               <p>
+                  <hi>ITEM</hi> Forsamekle as the commoun quyetnes, and weill of this Realme can not be mair hinderit nor be the cō<g ref="char:EOLhyphen"/>tinuance of the Inwart troublis, and Ciuile dissentioun that sa lang hes lestit within the same, and as it is godly, and for the weill of the Kingis Maiestie, and the commoun weill to remuse, and put away all occasioūis of discord, sa in particular it is thocht cōuenient be my Lord Regentis grace, and thre Estatis, and haill body of this present Parlia<g ref="char:EOLhyphen"/>ment, That the escheittis, and gudis of the persoūis now cūmin to his hienes obedience, That is to say, Archibald Erle of Argyle, Lord Campbell and Lorne. &amp;c. Hew Erle of Eglintoun, Lord Montgome<g ref="char:EOLhyphen"/>rie. &amp;c. Gilbert Erle of Cassillis, Lord Kēnedy. &amp;c. Robert Lord Boyd, thair kyn, freindis men, tennentis, seruandis, and vtheris specifyit, &amp; contenit in thair Remissiounis grantit, and to be grantit to thame for the crymes contenit thairin, sall rest, ceis, and na wyse be vptakin be
+<pb facs="tcp:21486:5"/> his Maiestie his Thesaurer, or be the persounis donatouris thairto, for ony crymes obiectit to thame in the cōmoun caus of resisting his hie<g ref="char:EOLhyphen"/>nes Authoritie and not obeying and seruing the same in tyme bygane sen his hienes Coronatioun or for ony caus, or cryme depending thair<g ref="char:EOLhyphen"/>on. And thairfoir it is statute ordanit, and declarit be my said Lord Regentis grace, with auise of the saidis thre Estatis, and haill body of this present Parliament. That the escheittis of the said persounis now cūming to the obedience of the Kingis Maiestie, our Souerane Lord in respect of cōmoun quyetnes to be had heirefter, and eschewing of all occasiounis of discord, sall remane with the saidis persounis present pos<g ref="char:EOLunhyphen"/>sessouris, and awneris of the saidis escheittis, notwithstanding ye said cryme of the commoun caus of resisting our Souerane Lordis Au<g ref="char:EOLhyphen"/>thoritie, and not obeying, and seruing the same in tyme bygane, sen his hienes Coronatioun, or ony caus, or cryme depending thairon, or ony proces led aganis the saidis persounis thairfoir in tyme bygane. The effect quhairof, be ver<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew and authoritie of this presēt Act, is decernit and declarit to be voyde, and of nane auaill, strenth, force, nor effect heir efter, without ony proces of speciall reductioun, or vther declaratioun to follow thairupon. And lykewise it is decernit, and declarit that all gudis, and dett{is} ordourly, and lauchfully Intromettit with, be vertew of the saidis giftis of escheittis in tyme bygane befoir ye dait heirof, sall remane with the donatouris in tyme cūming. And in lyke maner all panis and vnlawis for nonentering of the saidis persounis now cūmin to the Kingis obedience, to vnderly the Law in tyme bygane for ma<g ref="char:EOLhyphen"/>teris tuiching the said commoun caus of resisting his hienes authoritie or depending thairon, ar simpliciter dischargeit be vettew of this pre<g ref="char:EOLhyphen"/>sent Act.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>¶Anent Kirkmen that happinnis to be slane in our Souerane Lordis seruice in defence of his hienes Authoritie. Cap. xj.</head>
+               <p>
+                  <hi>ITEM</hi> Our Souerane Lord with auise of my said Lord Regentis grace, thre Estatis, and haill body of this present Parliament, hes statute, and ordanit that in case ony our So<g ref="char:EOLhyphen"/>uerane Lordis trew liegis beneficit men happinnis to be hurt, slane, or woundit to the deid, and thairefter of the saidis hurtis, or woundis to die in our Souerane Lordis seruis, and in defence of his Authoritie at ony tyme aganis the forfaltit and declarit Tratouris, presently being within the Castell and Burgh of Edinburgh, &amp; vtheris his Maiesteis oppin, and manifest enemeis, resisteris, and conspiratouris aganis his hienes authoritie, during all ye time of the oppin and manifest resistēce thairto: That the neirest of the said Beneficit mēnis kyn, abill &amp; qua<g ref="char:EOLhyphen"/>lifyit sall haue the presentatioun, prouisioun, and collatioun of his Be<g ref="char:EOLhyphen"/>nefice for that tyme allanerly. And the samin to be disponit to the neir<g ref="char:EOLhyphen"/>est of his kyn, yat happinnis to be slane, or deceis in maner foirsaid, be<g ref="char:EOLhyphen"/>ing
+<pb n="v" facs="tcp:21486:5"/> alwayis abill and qualifyit thairfoir as said is. And the profitis of thair Benefices, with the frutes specially on the ground, with ye annet thairefter, to pertene to thame, and thair executouris asweil Abbottis, Pryouris, as all vther Kirkmen.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>¶Anent the waird, releif, and Mariage of thame that sall happin to be slane in our Souerane Lordis seruice in defence of his Maiesteis Authoritie. Cap. xij.</head>
+               <p>
+                  <hi>ITEM</hi> My Lord Regentis grace with auise of ye thre Esta<g ref="char:EOLhyphen"/>tis, and haill body of yis present Parliament hes sta<g ref="char:EOLhyphen"/>tute and ordanit, that in case ony Erlis, Lordis, Barroūis, frehalders, landit men, gentilmen, or ony vtheris persoun, or persounis sall happin to be slane, hurt, or woundit to the deid, and yairefter of the saidis hur<g ref="char:EOLhyphen"/>tis and woundis to die at ony tyme in defence of our Souerane Lor<g ref="char:EOLhyphen"/>dis Authoritie, aganis certane his forfaltit and declarit tratouris, pre<g ref="char:EOLhyphen"/>sently being within the Castell and Burgh of Edinburgh, and vtheris his Maiesteis oppin and manifest enemeis, resistaris &amp; conspiratouris aganis his hienes Authoritie, during all the tyme of the oppin and ma<g ref="char:EOLunhyphen"/>nifest resistence thairto: That thair air, or airis sall haue thair waird, nonentres, releif, and mariage fre of our Souerane Lord, dispensand with thair minoritie and les age, quhat eild that euer thay be of: with<g ref="char:EOLhyphen"/>out payment of ony teynd penny, or vther profite thairfoir. And siclyke, of all vtheris Lordis spirituall and temporall baith of Vassallis &amp; sub<g ref="char:EOLhyphen"/>uassallis. Prouyding that the airis foirsaidis persew and obtene en<g ref="char:EOLhyphen"/>tres of thair ouirlordis, within thre termes efter the deceis of thair Fa<g ref="char:EOLhyphen"/>theris, or of quhatsumeuer vther persounis, quhome to thay ar to suc<g ref="char:EOLhyphen"/>ceid, for ye causis foirsaidis. And gif the saidis airis be of les age, with<g ref="char:EOLhyphen"/>in Tutorie, and beis not enterit to thair landis, &amp; heritage befoir thair age of xiiij ʒeiris, quhilk may be throw negligence of thair Tutouris, &amp; vtheris thair freindis. Our Souerane Lord priuilegeis, and grantis to thame that thay may enter, within thre termis nixt efter thair com<g ref="char:EOLhyphen"/>pleit age of xiiij. ʒeiris, as said is, and this to be extendit to the Mediat<g ref="char:EOLunhyphen"/>air that is to succeid to the persoun that happinnis to deceis, during ye tyme and in maner foirsaid. And becaus it may happin the persoun, or persounis that happinnis to deceis in maner, and during the tyme foir<g ref="char:EOLhyphen"/>said, to haue na lauchfull barnis of thair bodyis by the air, Thairfoir ordanis that the profite of the waird landis be tane vp be thair Mo<g ref="char:EOLhyphen"/>theris (gif thair be na Tutouris Testamentaris) als lang as scho re<g ref="char:EOLhyphen"/>manis wedo, and failʒeing thairof be the neirest, &amp; lauchfull Tutouris of the saidis barnis, to be distributit to the sustentatioun of the air, and to the vtilitie and profite of the remanent his brether, and sisteris to ye perfite age of the said air or airis. That is to say, gif the airis be Maill, of xxj. ʒeiris, and gif thay be femaill, of xiiij. ʒeiris, the profite of the said airis mariage being ay fre to him self. The Mother, Tutour, or Go<g ref="char:EOLhyphen"/>uernour
+<pb facs="tcp:21486:6"/> findand sufficient Cautioun befoir the Lordis, that thay sali<g ref="char:EOLunhyphen"/>mak compt, rekning, and payment of thair Intromissioun befoir the Lordis of Counsall, or in the Checker ʒeirly. And gif the airis of the persounis that happinnis to die, as said is, haue ony fewis, that thay enter siclyke to thair few landis haldin of quhatsumeuer persounis spi<g ref="char:EOLhyphen"/>rituall, or temporall within the termis foirsaidis, without ony paymēt of the Few.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>¶Anent Possessiounis. Cap. xiij.</head>
+               <p>
+                  <hi>ITEM</hi> Our Souerane Lord, with auise of my said Lord Regentis grace, thre Estatis, and haill body of this present Parliament hes statute, and ordanit, that in case ony Erle, lord, Barroun, frehalder, Vassell, Subuassell, Fewaris, Maillaris, Takis<g ref="char:EOLhyphen"/>men, tennentis, rentallaris, possessouris, or commounis happinnis to be hurt, slane, or woundit to the deid, and thairefter of the saidis hurtis, or woundis to die in our Souerane Lordis seruice, and in defence of his Authoritie at ony tyme, aganis certane his forfaltit, and declarit Tra<g ref="char:EOLhyphen"/>touris (presently being within the Castell and Burgh of Edinburgh) &amp; vtheris his Maiesteis oppin, and manifest enemeis, resistaris, and cō<g ref="char:EOLhyphen"/>spiratouris aganis his heines Authoritie, during all the tyme of the oppin and manifest resistence thairto: that thair airis, executouris, or assignayis, sall frely haue thair awin wairdis, releifis, and mariageis in thair awin handis, to be disponit thairon as thay sall think expediēt. And siclyke, thair wyfis, barnis, executouris, or assignayis, sall bruke thair Takkis, stedingis, rowmes, and possessioun{is} asweil of Kirklādis, as temporall mēnis landis, and enter thairto, and remane thiarwith frely, for the space of fyue ʒeiris without ony Gressume, or entrie siluer: Payand alanerly Maillis, and dewteis vsit, and wount. And this Act asweill to extend vpon Kirkmennis, as temporall mēnis Vassellis, as vpon our Souerane Lordis.</p>
+               <closer>
+                  <dateline>¶Extractum de Libro Actorum Parliamenti per me Magistrum Iacobum Makgill, de Rankelour Nether, Clericum Rotulorum Registri ac consilij S. D. N. Regis sub meis signo &amp; subscriptione manualibus.</dateline>
+                  <signed>JACOBVS MAKGILL</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="acts">
+            <pb n="vi" facs="tcp:21486:6"/>
+            <head>
+               <hi>❧IN THE PARLIAMENT HAL<g ref="char:EOLhyphen"/>din</hi> at Edinburgh, the xxvj. day of Ianuar, the ʒeir of God ane thou<g ref="char:EOLhyphen"/>sand, fyue hundreth, thre scoir twelf ʒeiris. Thir Lawis, statutes, and Constitutiounis, ar deuysit, concludit, statute, and ordanit be the richt hie, Excellent, and Michtie Prince, and our Souerane Lord, Iames the sext, be the grace of God, King of Scottis: with auise, and con<g ref="char:EOLhyphen"/>sent of ane Nobill, and Michtie Lord, and his richt traist Cou<g ref="char:EOLhyphen"/>sing Iames Erle of Mortoū, Lord Dalkeith, &amp;c. Regent to his Maiestie, his Realme, and liegis: and thre Esta<g ref="char:EOLhyphen"/>tis of this Realme, assemblit and conuenit to that effect. Of the quhilkis Lawis and Constitutiounis the tenoris followis.</head>
+            <div n="1" type="chapter">
+               <head>¶Anent the Approbatioun, and Confirmatioun of the Regiment. Cap. j.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE quhilk day it is fundin, declarit, and decernit be our Souerane Lord, with auise of the thre Estatis, &amp; haill body of this present Parliament, that the Nomi<g ref="char:EOLhyphen"/>natioun, Constitutioun, Electioun, and Ordinatioun of the Nobill, &amp; Michtie Lord, Iames Erle of Mor<g ref="char:EOLhyphen"/>toū, Lord Dalkeith, &amp;c. In Regēt to our Souerane Lord, his Realme, and liegis thairof, during the tyme of his Maiesteis Minoritie, and les age. Togidder with the consent, &amp; Approbatioun of the Erlis, Lordis, Prelattis, Cōmissionaris of Bur<g ref="char:EOLhyphen"/>rowis, Barrounis, and vther faithfull subiectis conuenit and assemblit to that effect. And the Acceptatioun of ye said office of Regentrie be ye said Iames Erle of Mortoun vpon the xxiiij. day of Nouember last by past, Was, is, and in all tyme cūming salbe haldin, repute, and estemit lauchfull, sufficient, and perfite. And all, and quhatsumeuer thingis quhilkis he hes done be vertew of his said office of Regentrie sen his Acceptatioun thairof, or quhilkis he sall do heirefter in our Souerane Lordis name and authoritie, during the tyme of his hienes Minoritie, to be als dewly, lauchfully, sufficiently, &amp; richteously done, and to haue als greit auaill, strenth, force, and effect in all respectis, and conditioūis as ony thing done be quhatsumeuer Regentis, Gouernouris, or Pro<g ref="char:EOLhyphen"/>tectouris of this Realme, in the minoriteis and les ages of ony vtheris natiue Princes of the samin. Quhilkis confirmatioun, Nominatioun, Eelectioun, Constitutioun, Acceptatioun, Actis and procedingis, Our said Souerane, with auise, and consent of the saidis thre Estatis, and haill body of this present Parliament, ratefyis, approuis, &amp; confirmes for now and in all tyme cumming.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>¶Anent the trew and haly Kirk. Cap. ij.</head>
+               <p>
+                  <hi>ITEM</hi> Forsamekle as thair was ane Act maid in the Par<g ref="char:EOLhyphen"/>liament haldin in the first ʒeir of our souerane Lor<g ref="char:EOLhyphen"/>dis
+<pb facs="tcp:21486:7"/> Regne, that now is Intitulat, Anent the trew and haly Kirk, and of thame that ar declarit not to be of the same Kirk. Quhilk Act our Souerane Lord, with auise and consent of my Lord Regentis grace, the thre Estatis, and haill body of this present Parliament, ratifyis, ap<g ref="char:EOLhyphen"/>prouis, and for his hienes, and his Successouris perpetually confirmis. And seing the Educatioun of our Souerane Lord is in the trew Reli<g ref="char:EOLhyphen"/>gioun of Iesus Christ, and that the samin Religioun be Lawis and Actis of Parliament maid in his hienes Regne is establischit: and that it is baith godly, and expedient, that all his hienes subiectis worschip the only trew God, in the vniformitie of Religioun and his hienes obe<g ref="char:EOLhyphen"/>dience. ¶Thairfoir it is statute, and ordanit be our said Souerane, with auise of his said Regent, the thre Estatis, and haill body of this present Parliament, that the lauchfull Archebischoppis, Bischoppis, Superintendentis, and Cōmissionaris of the Dieceis, and Prouinces of this Realme, be thame selfis, and the Ministeris, and Reidaris ser<g ref="char:EOLhyphen"/>uing at the Kirkis within thair charges, respectiue, with all diligence, e<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter the publicatioun of this present Act, note the Names of the per<g ref="char:EOLhyphen"/>sounis asweill men as wemen suspectit to be Papistis, or that hes not communicat with the Sacramentis, as thay ar now trewly ministrat in the Reformit Kirkis of this Realme, and with the lyke Diligence lauchfully admonische thame according to the ordour of the Kirk. And in case thay be furth of the Realme, vpon thre scoir dayis warning, to recant thair Papisticall errouris, gif the Confessioun of thair Faith ac<g ref="char:EOLhyphen"/>cording to the Forme approuit in our Souerane Lordis Parliament, be participant with the Sacramentis, and submit thame selfis to the Discipline of the trew Kirk, within certane ressonabill space, vnder the pane of Excommunicatioun. And gif thay failʒe, to pronounce the sen<g ref="char:EOLhyphen"/>tence of Excommunicatioun aganis thame. And in case of the contu<g ref="char:EOLhyphen"/>macie, and non competance of ony persounis <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wa admonischeit, or cö<g ref="char:EOLhyphen"/>perand, gif thay refuse to obey the admonitioun, and thay quha hes re<g ref="char:EOLhyphen"/>turnit to thair errouris efter thair Confessioun anis geuin, that euerie lauchfull Archibiscop, Bischop, Superintendent, or Cōmission ar presēt ane Roll, and Catholog of the Names of the disobedientis, obstinat, or relaps persounis, to our Souerane Lord, and his Regent betuix and the first day of Iunij nixt tocū, to the effect that the samin may be Im<g ref="char:EOLhyphen"/>prentit, divulgat, and affixit on the Tolbuith of Edinburgh, &amp; vtheris Tolbuithis, and publict places of Iudgement within this Realme, vn<g ref="char:EOLhyphen"/>der the panis following: that is to say, euerie Archibischop, or Bischop that salbe fund remis, or negligent thairin, be the generall Assemblie of the Kirk vnder the pane of tynsall of the frutes of his Benefice for ane ʒeir, to our Souerane Lordis vse, and euerie Superintendent or Cō<g ref="char:EOLhyphen"/>missionar vnder the pane of tynsall of his Stepend for ane ʒeir alswa to our Souerane Lordis vse, and remouing of him furth of his office,
+<pb n="vii" facs="tcp:21486:7"/> and placing of ane vther mair diligent thairin. And that ye disobediēt, obstinat, and relaps persounis to be contenit in ye said Catholog (efter the publicatioun thairof) salbe haldin, repute, and estemit Infamous, &amp; vnabill to sit, or stand in Iudgement, persew, beir Office, nor sall not be admittit as preuis, witnessis, or Assysouris aganis ony professing ye trew Religioun, ay and quhill thay haue recounsallit thame selfis to ye trew Kirk, submittand yame selfis to the Discipline thairof, and obrene Testimoniall thairupon, quhilk Inhabilitie being alledgeit aganis ony Iudges principall, or deputis, members of Court, Officiaris, parteis, or Procuratouris, persounis of Inquest, or witnessis, salbe releuant ex<g ref="char:EOLhyphen"/>ceptioun of the Law to declyne thame fra Iudgement, Office, persute, Procuratioun, Inqueist, or beiring witnes, without thay than presētly produce sufficient Testimoniall, witnessing thame to be ressauit as mē<g ref="char:EOLhyphen"/>bers of the trew Kirk. As aswa the Depute of the Iudge Principall, quha is the Excommunicate, or the Procuratour quha will compeir for the Excommunicate sall not be sufferit to proceid, nor hard in Iudge<g ref="char:EOLhyphen"/>ment (the Excommunicatioun being opponit, and verefyit aganis the maker of the Depute, or constituant of the Procutour) except that the Principall be quhome thay proceid, or vse thair Procuratioun, first be ressauit to the Kirk, and haue sufficient Testimoniall thairupon. And that the said exceptioun be not admittit aganis ony quhilk sall not be specially cōprehendit in the said Catholog. And in case the Iudge pro<g ref="char:EOLhyphen"/>ceid notwithstanding the said exceptioun, the samin being lauchfully proponit, and ratifyit be the Catholog foirsaid, sic contemptuous pro<g ref="char:EOLhyphen"/>ceding testifyit be ane Instrument, and producit befoir the Lordis of Counsall, salbe ane sufficient caus of suspensioun, and discharge of the executioun of the Decreit to be geuin in that mater.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>¶That the Aduersareis of Christis Euangell sall not Inioy the Patrimonie of the Kirk. Cap. iij.</head>
+               <p>
+                  <hi>ITEM</hi> Forsamekle as the conseruatioun, and Purgatioun of the Religioun cheifly pertenis to the Cristiane, &amp; godly Kingis, Princes, Rewlaris, and Magistratis: And that it is maist requisit, that the Kirk within this Realme be seruit be Godly persounis, of sound Religioun, obedient to the Authoritie of the Kingis Maiestie our Souerane Lord. ¶It is thairfoir concludit, statute, and ordanit be his Maiestie, with auise of his said Regēt, thre Estatis, and haill body of this present Parliament: That euery persoun, quha sall pretend to be ane Minister of Goddis word, and Sacramentis: Or quha presently dois, or sall pretend to haue, and bruke ony benefice, vse of the frutes, stipend, pensioun, or portioun furth of Benefice, and ar not alreddy vnder the discipline of the trew Kirk, and participatis not with the Sacramentis thairof, sall in the presence of the Archebischop,
+<pb facs="tcp:21486:8"/> Bischop, Superintendent, or Cōmissionar of the Diocie or Prouince quhair he hes, or sall haue the Ecclesiasticall leuing, gif his assent, and subscriue the Articklis of Religioun, contenit in the Actis of our So<g ref="char:EOLhyphen"/>uerane Lordis Parliament, and gif his aith for acknawledgeing, and recognoscing of our Souerane Lord, and his Authoritie, and sall bring ane testimoniall in wryting thairupon. And oppinly, on sū Sonday of in tyme of Sermone, or publict Prayeris in the Kirk, quhair be ressoun his ecclesiasticall leuing he aucht to attend, or of the frutes quhairof he ressauis cōmoditie, reid baith the Testimoniall, and Confessioun: and of new mak the said aith, within the space of ane moneth efter the pub<g ref="char:EOLhyphen"/>licatioun of this presenc Art. And gif he be furth of the Realme within thre scoir dayis efter the publicatioun heirof. And in tyme cūming, with in ane moneth efter his admissioun, vnder the pane that euerie persoun that sall not do as is aboue appointit, salbe, <hi>Ipso facto,</hi> depryuit, and all his ecclesiasticall promotiounis, and leuing falbe vacand, as gif he war than naturally deid. And gif ony persoun Ecclesiasticall, or quhilk sall haue Ecclesiasticall leuing, sall wilfully mantene ony doctrine directly contrair or repugnant to ony of the saidis Articklis: and being conue<g ref="char:EOLhyphen"/>nit and callit, as followis, sall persist thairin, and not reuoke his er<g ref="char:EOLhyphen"/>rour, or efter his reuocatioun, sall of new affirme sic vntrew doctrine, sic mantening affirming and persisting, salbe Iust caus to depriue him of his ecclesiasticall leuing. And it salbe lauchfull to yame befoir quhōe he is callit and conuenit, to depriue him. Quhilk sentence of depriuati<g ref="char:EOLhyphen"/>oun pronouncit, he salbe depriuit in deid, and his leuing vacand, as gif he war naturally deid. And that all Archebischoppis, Bischoppis, Su<g ref="char:EOLhyphen"/>perintendentis, possessouris, or Titularis of Prelattis be callit, and cō<g ref="char:EOLhyphen"/>uenit for this effect, befoir the Generall Assemblie of the Kirk, and all Inferiour persounis befoir the Archebischoppis, Bischoppis, Superin<g ref="char:EOLhyphen"/>tendentis, or Commissionaris of the Dioceis, or Prouinces within the quhilkis thay dwell.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>¶Auent the disobedientis quhilkis salbe ressauit to our Souerane Lordis mercy and Pardoun. Cap. iiij.</head>
+               <p>
+                  <hi>ITEM</hi> Forsamekle as thair hes bene greit Rebellioun, and disobedience aganis our Souerane Lordis Autho<g ref="char:EOLhyphen"/>ritie in tyme bypast, and seing the caus of Goddis trew Religioun and his hienes Authoritie foirsaid ar sa Ioynit, as the hurt of the ane, is commoun to baith. ¶It is thairfoir declarit, statute, and ordanit be our Souerane Lord with auise, &amp; consent of my Lord Regentis grace, with the thre Estatis, and haill body of this present Parliament, That nane salbe repute as Loyall, and faithfull subiectis to our said Soue<g ref="char:EOLhyphen"/>rane Lord, or his Authoritie, bot be puneisabill, as rebellaris, &amp; gane<g ref="char:EOLhyphen"/>standaris of the samin, quhilk sall not gif thair Confessioun, and mak
+<pb n="viii" facs="tcp:21486:8"/> thair professioun of the said trew Religioun, and that all sic as mak is professioun thairof, and as ʒit hes maid defectioun fra thair dew obedi<g ref="char:EOLhyphen"/>ence aucht to our Souerane Lord, salbe admonischit be the Pastouris and Ministeris of the Kirk, to acknawledge thair offence, and returne to thair detfull obedience, and gif thay failʒe thairin, to be excōmunicat and secludit from the societie of the Kirk, as Rebellious and Corrupt mēbers, betuix and the first day of Iunij nixt tocum. And that alwayis befoir sic persounis as hes maid defectioū be ressauit to our Souerane Lordis mercy and fauour, thay sall gif the Confessioun of thair Faith of new, and promeis to continew in the Confessioun of the trew Reli<g ref="char:EOLhyphen"/>gioun in tyme cūming, mantene our Souerane Lordis authoritie: and that thay sall at the vttermest of thair power fortefie, assist, &amp; mantene the trew Preicheouris and professouris of Christis Religioun, aganis quhatsumeuer enemeis, &amp; gane standaris of the samin, &amp; namely aganis all sic of quhatsūeuer Natioun, estait, or degre thay be of, that hes Ioy<g ref="char:EOLhyphen"/>nit, and bund thame selfis, or hes assistit, or assistis to set fordwart and execute the cruell decreittis of the Counsall of Trent (quhilk maist In<g ref="char:EOLhyphen"/>iuriously is callit be the aduersareis of Goddis treuth, the haly league, contrair the Preichouris and trew Professouris of the word of God.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>¶The explanatioun of the Act maid anent Mansis and Glebis. Cap. v.</head>
+               <p>FOrsamekle, as be act of Parliament haldin and begunne at Edin<g ref="char:EOLunhyphen"/>burgh the feird day of Iunij, the ʒeir of God ane thousand, fyue hundreth, thre scoir thre ʒeiris, It was statute, and ordanit, that na Persone, Vicar, nor vther Ecclesiasticall persoun suld set in few, or lang Takkis ony of thair Mansis, or Glebis pertening to the Kirkis. And alswa that thay that ar appointit, or to be appointit to serue or Minister at ony Kirk within this Realme, suld haue the Principall Mans of the Persone or Vicar: or sa mekle thairof as suld be fund suf<g ref="char:EOLhyphen"/>ficient for staiking of thame, to the effect yat thay may ye better await vpon the charge appointit, or to be appointit to thame: quhidder the saidis Glebis war set in few, or Tak of befoir, or not: or that ane resso<g ref="char:EOLhyphen"/>nabill and sufficient hous war biggit to thame besyde the Kirk be the Persone or Vicar, or vtheris hauand the saidis Mansis in few, or lang Takkis. And farther, sa mekle land to be annexit to the saidis dwelling places of thame that seruis, or Ministeris at ye Kirk, as yairefter with gude auisement suld be appointit, lyke as the said Act at mair lenth proportis. Quhilk being in diuers partis doutfull and incertane, na gude executioun hes followit thairupon in tyme bypast. ¶Thairfoir our Souerane Lord, with auise of my Lord Regentis grace, the thre Estatis, and haill body of this present Parliament, Fyndis, &amp; declaris, that the Māsis outher pertening to the Persone, or Vicar maist ewest to the Kirk, and maist cōmodious for dwelling, pertenis, &amp; sall pertene
+<pb facs="tcp:21486:9"/> to the Minister, or Reidar seruing at the samin Kirk: Togidder with four Acres of land of the Gleib at leist lyand contigue, or maist ewest to the said Mans gif thair be sa mekle. And faiʒeing thairof, sa mekle as thair is, to be markit, &amp; specially disignit be the Archebischop, Bis<g ref="char:EOLhyphen"/>chop, Superintendent, or Commissionar of the Diocie, or Prouince ye tyme of thair nixt visitatioun, be the auise of ony twa of the maist ho<g ref="char:EOLhyphen"/>nest, and godly of the Parochinnaris quhlk{is} thay sall requyre (not be<g ref="char:EOLhyphen"/>ing possessouris of the laid{is} Mansis or Glebis thame seltis) to Ioyne with him in executioun heirof quhidder the saidis Mansis and Gle<g ref="char:EOLhyphen"/>bis be set in few, or Takkis of befoir, or not. And vpon the said mar<g ref="char:EOLhyphen"/>king and designatioun the Archebischop, Bischop, Superintendent, or Commissionar, sall gif his Testimoniall, beiring, how he with au<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se of sic twa of the Parochinnaris hes visite the Mans and Gle<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b of sic ane Kirk, and fyndis the samin occupyit be sic persounis. And that yai haue appointit, markit, and designit the said Mans with four Acres, or sic quantitie of land adiacent thairto, to the vse of the Minister, or Reidar that sall serue, and Minister at the said Kirk in tyme cūming. And vpō the Minister or Reidaris supplicatioun, quhair with all the said Testi<g ref="char:EOLhyphen"/>moniall salbe presentit to the Lordis of Counsall, Letteris salbe direct, chargeing the occupyaris, and possessouris of the saidis Mansis and Acres of land quhidder the samin be set in Few or Takkis of befoir, or not, to remuse, desist, and ceis thairfra and enter the said Minister, or Reidar to the possessioun of the samin within ten dayis, vnder ye pane of Rebellioun, and gif thay failʒe to put thame to the horne. And in case thay be denunceit, letteris of Captioun, and vtheris Executoriallis to be direct vpon thame, according to ye Lawis of this Realme. Quhilk{is} Mansis and Acres of land sa markit and designit, as said is, it sall not be lesum to the Ministeris, or Reidaris present, or to cum, to sell, ānalie, set in Few, or Takkis, or to put ony in possessioun of the samin, in pre<g ref="char:EOLhyphen"/>iudice of thair successour: bot the samin to remane alwayis fre to ye vse and e<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sment of sic as salbe admittit to serue, &amp; minister at the said Kirk. And quhair ony persounis vpon presence of Fewis or Takkis obtenit of Manus or Glebis, hes maid sumptuous biggingis thairon, fra the quhilkis thay will think heuie to be dispossessit, or remouit, that than the Archebischop, Bischop Superintendent, or Cōmissionar, the tyme of thair visitatioun, trauel to aggre the Fewar, or Taxman, &amp; the Mi<g ref="char:EOLhyphen"/>nister, or Reidar. Be delyuering to the samin Minister, or Reidar of ane vther Mans, quhilk salbe als gude, and ewest, as the vther, be iust estimatioun, the tyme that it was set in Few, or Takkis: to be biggit betuix this and the first day of October nixt to cū, togidder alswa, with certane Acres of land adiacent thairto in maner foirsaid, for eschewing of debait, and contentioun. Bot gif the Fewar, or Taxman refusis wil<g ref="char:EOLhyphen"/>lingly to condiscend to the samin, than the executioun to proceid for re<g ref="char:EOLhyphen"/>mouing
+<pb n="ix" facs="tcp:21486:9"/> fra the Principall Mans, and sa mony Acres of land as is be<g ref="char:EOLhyphen"/>foir specifyit, notwithstanding ony biggingis maid or to be maid yair<g ref="char:EOLhyphen"/>upon Prouyding alwayis, that sa m<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kle of the Few Maill be deducit to the persoun, or persoanis to quhome the saidis Ma<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s, or Glebis is set in Few, <hi>Secundum ratam,</hi> and siclyke, that the Fewar haue sufficient Actioun aganis the settar of the said Mans and Gleib, for sa mekle en<g ref="char:EOLhyphen"/>tres siluer, as he payit to the settar the tyme of the setting thairof, <hi>Secū<g ref="char:EOLhyphen"/>dum ratam</hi> as said is.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>¶Anent the establisching of the Regiment in case at Goddis plesure that charge ʒit vaik, during the Kingis Maiesteis Minoritie. Cap. vj.</head>
+               <p>FOrsamekle, as sen the Coronatioun of the Kingis Maiestie, our Souerane Lord, the charge of Regiment of his hienes Realme and liegis, hes bene worthely occupyit, &amp; administrat be diuers Nobill men, being of the number of thame quhilkis ar nominat &amp; con<g ref="char:EOLhyphen"/>tenit in the Cōmissioun of the Quene his hienes mother, maid and ge<g ref="char:EOLhyphen"/>uin the tyme of the dimissioun of hir Crowne in his Maiesteis fauour{is}, and electit, allowit, and approuit be the Estatis of Parliament for the tyme, and now my Lord Regentis grace, and thre Estatis of this pre<g ref="char:EOLhyphen"/>sent Parliament, considdering in how schort space sa mony Nobill mē, his hienes derrest freindis, and approuit weilwillaris, ar departit this lyfe, for the maist part, be violent meanis of thair enemeis, becaus of thair constant professioun, and mantenance of the Authoritie of our Souerane Lord, sa as the number of persounis contenit in the said Cō<g ref="char:EOLhyphen"/>nassioun now leuing, and remaning obedient to our Souerane Lord, (being few) may o<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther be naturall, or violent deith, at Goddis ple<g ref="char:EOLhyphen"/>sure be takin away, during his Maiesteis Minoritie. Ʒit to ye essert, that his hienes, his said Realme &amp; liegis sall not throw ony occasioū be destitute of Regiment. ¶It is thairfoir fundin, declarit, statute, and ordanit be our Souerane Lord, his hienes Regent, the thre Estatis, &amp; haill body of this present Parliament, that how sone, and how oft it sal happin the Regiment of this Realme to vaik, during his hienes Mino<g ref="char:EOLunhyphen"/>ritie foirsaid, it salbe lauchfull to the estatis conuenand, to elect ony ane persoun of the Nobilitie, professing the trew Religioun, and that hes geuin profe of his gude affectioun thairto, and to the esta<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of our So<g ref="char:EOLhyphen"/>uerane Lord, libertie, quyetnes, and cōmoun weill of this Realme, to the said Office, and charge of Regentrie. Quhilk Electioun with the Acceptatioun, Artis, and procedingis of the persoun, or persounis to be Electit, salbe lauchfull, pertite, and sufficient, althocht thay sall not hap<g ref="char:EOLhyphen"/>pin to be of the number specifyit and content in the said Commissioun.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>¶Anent the possessiouris of Benefices, Pensiounis, Portiounis, and vtheris spiri<g ref="char:EOLhyphen"/>tuall rentis, lyand at the horne attour the space of ʒeir and day. Cap. vij.</head>
+               <pb facs="tcp:21486:10"/>
+               <p>FOrsamekle, as be the lawis of yis Realme, specially be Act of Par<g ref="char:EOLunhyphen"/>liament haldin in the Regne of vmquhile King Iames the Fyft, our Souerane Lordis Gudeschir, of worthy Memorie, It is fund, that the vse in tymes bygane hes bene, yat the maillis &amp; dewteis of the landis of thame that hes bene ʒeir and day at the horne, haldin of vtheris Superiouris than the King, returnit agane to ye Superiour{is} of the samin landis, for the lyfetyme of thame that sustenit sic proces of horne, ʒeir and day, as said is, except crymis of tressoū and lesemaiestie, and that the law suld sa be Interprite and vsit, lyke as at mair lenth is contenit in the samin Act. Quhilk hes geuin greit feir and terrour to all heritouris of landis to Incur the said proces of horning, during the tyme foursaid, and thairfoir for saiftie of thair lyferent hes done diligēce, and vsit all gude meanis to obtene thame spedely relaxit, quhen euer thay happin to Incur the said pane. Ʒit becaus the Law was not e<g ref="char:EOLhyphen"/>quall, at leist had not ressauit the lyke executioun aganis the possessour{is} of Benefices, Pensiounis, Portiounis, or vther Ecclesiasticall rent<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s: The greitter contempt of horning hes bene in sic persounis, quhilkis thinking thair leuingis in na danger, throw thair disobedience, conti<g ref="char:EOLhyphen"/>newit in thair awin Rebellioun, &amp; vsit na diligence to get thame selfis relaxit, quhilk maid the said pane of horning cōtemptable in tymes by<g ref="char:EOLhyphen"/>past. ¶For remeid of the quhilk abuse heirefter, our Souerane Lord, with auise of my Lord Regentis grace, the thre Estatis, and haill body of this present Parliament, declaris, statutis, and ordanis, that gif ony possessour of Benefices, Pentiounis, Portiounis, or vther sic Ecclesia<g ref="char:EOLhyphen"/>sticall rentis, being ordourly denunceit Rebellis, and put to the horne, remanis thairat, attour the space of ʒeir and day, thay sall thairby tyne thair lyferent of thair Benefices, Pensioun, Portioun, or vther Ecclesi<g ref="char:EOLhyphen"/>asticall rent, siclyke, and in the samin maner as the temporall men, and heritouris of landis dois, and according to the Act maid in our Soue<g ref="char:EOLhyphen"/>rane Lordis derrest Gudschiris Regne.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>¶Approbatioun of the Actis and procedingis done in name and be authoritie of our Souerane Lord, and of the Inualiditie of all thingis attemptie in name or be cul<g ref="char:EOLhyphen"/>lour of ony vther authoritie sen his hienes Coronatioun. Cap. viij.</head>
+               <p>FOrsamekle, as sen the Coronatioun of the Kingis Maiestie, our So<g ref="char:EOLunhyphen"/>uerane Lord, diuers Rebellious Insurrectiounis, tressonable Con<g ref="char:EOLhyphen"/>spiraceis, oppin Hostiliteis, and disobedientis hes bene raisit aganis his hienes Authoritie and Regentis, tending to the subuersioun of Christis Religioun, the deposing of his Maiestie from his Royall Crowne, and the confusioun of the haill estait of the commoun weill of this Realme. For resisting and repressing of the quhilkis tressonable, Rebellious, and dangerous Interprysis, and saiftie and preseruatioun of our Soue<g ref="char:EOLhyphen"/>rane Lordis Innocent persoun, his Regentis Nobilitie, and Estatis
+<pb n="x" facs="tcp:21486:10"/> professing his obedience, hes bene oftymes constranit to vse the proces, Iudgement, and executioun of his hienes Lawis, as alswa force and hostilitie aganis his hienes declarit Tratouris Rebellious and disobe<g ref="char:EOLhyphen"/>dient subiectis, thair assistaris and pertakeris. ¶ Thairfoir it is sta<g ref="char:EOLhyphen"/>tute and ordanit be our Souerane Lord, with auise of my Lord Re<g ref="char:EOLhyphen"/>gentis grace, the thre Estatis, and hail body of this present Parliamēt, that all processis, Iudgementis, &amp; executiounis of his hienes Lawis, led, geuin, and maid in his Maiesteis Name criminally, or ciuilie, sen his hienes Coronatioun foirsaid, outher in Parliament, preuie counsal, Iustice Courtis, Sessioun, and College of Iustice, Checker, or befoir the Schireffis, Stewartis, Bailleis, Prouestis, Aldermen, &amp; Bailleis of Burrowis, and vtheris Iudgeis and Ministeris of Lawis quhatsū<g ref="char:EOLhyphen"/>euer. And all deidis of Hostilitie in raising and conductioun of men of weir, battellis, conflictis, and vtherwayis cuinʒeing of money, taking and fortificatioun of townis, Castellis, Paleces, places, housis, and po<g ref="char:EOLhyphen"/>liceis, birning, distructioun, and demolisching thairof, Intelligences, treateis, and contractis maid with quhatsumeuer Forane Princes, or thair Lieutennentis, or Ministeris, Inbringeris of strangeris in the townis, and vtheris partis of yis Realme, Intromissioun with money, munitiounis, and mouabill gudis, vptaking of rentis, taking and dete<g ref="char:EOLhyphen"/>ning of presoneris, Ransounis, butingis, raising of taxtis, Impositioū{is}, and vtheris quhatsumeuer done be our Souerane Lordis Regentis Nobilitie, and vtheris subiectis Professing his obedience, aganis the saidis declarit tratouris, rebellis, or disobedient subiectis, yair assistaris and pertakeris quhatsūeuer, at ony tyme sen our said Souerane Lor<g ref="char:EOLhyphen"/>dis Coronatioun, and befoir thay obtenit remissiounis thairfoir, as al<g ref="char:EOLhyphen"/>swa all Intromissioun with ony of thair leuingis, gudis, geir, plenis<g ref="char:EOLhyphen"/>singis, and vtheris being within thair housis, or vpon thair landis or rowmes, notwithstanding quhatsumeuer assignatioun, tytle, or entres that ony vther persounis may acclame or pretend thairto. And declaris that all that followit, or sall happin to follow thairupon, hes bene, is, &amp; in all tyme cūming salbe repute, haldin, and estemit as lauchfully done, and gude and profitable seruice for his Maiestie, tending to the preser<g ref="char:EOLhyphen"/>uatioun of the estait of Cristiane Religioun, the Royall persoun and Crowne of our Souerane Lord, resisting and repressing of his saidis Rebellious and Inobedient subiectis, and quyeting of the coūtrie. And that the saidis Regentis and Nobilitie, and vtheris subiectis, yair assi<g ref="char:EOLhyphen"/>staris and pertakeris, sall incur na skaith or danger thairthrow, in yair persoūis, landis, or gudis, nor sall not be callit nor accusit for the samin, criminally nor ciuily, be ony maner of way in tyme cūming. Discharge<g ref="char:EOLhyphen"/>ing be this present Act all and sindrie his Maiesteis Iudges, and Mi<g ref="char:EOLhyphen"/>nisteris of his Lawis present, and to cum thairof, and of thair Offices in that part for euer. And this Act to be ampilly extendit and interprite
+<pb facs="tcp:21486:11"/> in the fauouris of all sic as professit our Souerane Lordis authoritie, &amp; obedience, aganis thame quhilkis war disobedient thairto, thair assi<g ref="char:EOLhyphen"/>staris and pertakeris. And in lyke maner it is declarit and decernit be our said Souerane Lord, his derrest Regent, the thre Estatis, &amp; haill body of this present Parliament, yat all pretendit processis, Iudgemē<g ref="char:EOLhyphen"/>tis, and executiounis of Lawis criminall, or ciuill, outher in pretendit Parliamentis, Counsall, or befoir Schireffis Stewartis, Bailleis, Prouest is, Aldermen, Bailleis of Burrowis, or vther Iudges, or Mi<g ref="char:EOLhyphen"/>nisteris of Lawis quhatsumeuer, in name, or be cullour of ony vther authoritie sen our Souerane Lordis Coronatioū foirsaid, hes bene, is, and in all tyme cūming, salbe repute, haldin, and estemit as vnlauch<g ref="char:EOLhyphen"/>full, vsurpit, vane, and of na force, strenth, nor effect: and to haue na ma<g ref="char:EOLhyphen"/>ner executioun for ony tyme bygane, or to cum, without ony proces of reductioun.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>¶Anent purchessing of the Papis Bullis, or giftis of the Quene our Souerane Lordis Mother. Cap. ix.</head>
+               <p>FOrsamekle, as be Act of Parliamēt haldin at Edinburgh ye xxiiii. day of August, the ʒeir of God ane thousand, fyue hundreth, thre scoir ʒeiris, ratefyit, and approuit be Act of Parliament, haldin ye first ʒeir of the Regne of our Souerane Lord, that now is, It was statute, and ordanit that the Bischop of Rome, callit the Pape, haue na iurisdictioun, nor authoritie within this Realme, in ony tyme yairefter. And that nane of the subiectis of this Realme in ony tyme thairefter, suld sute, or desyre tytle, or richt of the said Bischop of Rome, or his sect, to ony thingis within this Realme vnder the panis of baratrie, that is to say, proscriptioun, banisching, and neuer to bruke office, honour, nor dignitie within this Realme, lyke as is contenit at mair lenth in ye said Act, sen the quhilk tyme diuers the subiectis of this Realme, hes wickitly, and contemnandly purchest the said Papis Bullis, dispensa<g ref="char:EOLhyphen"/>tiounis, letters, and priuilegeis at Rome, or hes causit contrafate ye sa<g ref="char:EOLhyphen"/>min in Flanders, or vtheris partis, with antedaittis. As alswa sum v<g ref="char:EOLhyphen"/>theris hes purchest, or contrafatit giftis, and prouisioūis of Benefices, with antedaittis, or blankis, as maid be the Quene Mother to our so<g ref="char:EOLhyphen"/>uerane Lord, Intending be sic fals and cullourit meanis, to bruke the ty<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le, and possessioun of Benefices, or pensiounis efter the deceis of the present possessouris thairof. And thairthrow baith to defraude our so<g ref="char:EOLhyphen"/>uerane Lord of his rycht, and patronage, and alswa, the qualefyit per<g ref="char:EOLhyphen"/>sounis professing the trew Religioun, of thair leuingis quhairupon yai suld be sustenit, gif remeid be not prouydit thairintill. ¶ It is yairfoir deceri<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie, and declarit be our Souerane Lord, with auise and consene of my Lord Regentis grace, the thre Estatis, and haill body of this pre<g ref="char:EOLhyphen"/>sent Parliament, that all persounis suspectit to haue ony sic fals contra<g ref="char:EOLunhyphen"/>satit blankis, and antedaittit Bullis, prouisiounis, Confirmatiounis of
+<pb n="xi" facs="tcp:21486:11"/> Fewis, Takkis, or giftis of Benefices, Pensiounis furth of Benefices, cōmoun Kirkis, or landis, Annuellis and Freir landis salbe callit, quhē it sall pleis our Souerane Lord and his said Regent, to compeir, befoir sic of the preuie Counsall or vtheris that salbe constitute Cōmissionaris in Ecclesiasticall causis be his hienes Cōmissioun, at sic day, or dayis as thay sall appoint: bring and with yame thair saidis Bullis, prouisioūis, Confirmatiounis of Fewis, Takkis, and giftis of Benefices, &amp; vtheris befoir specifyit, to be sene, and considderit gif the samin be lauchfull ty<g ref="char:EOLhyphen"/>tles, and ordourly past, and be worthie to serue, and haue faith in tyme cūming or not, and in case the peces producit be fund lauchfull, and suf<g ref="char:EOLhyphen"/>ficient, the samin to be Registrat, markit, and to haue full faith, and va<g ref="char:EOLhyphen"/>liditie in tyme cūming. And gif the samin salbe fundin to haue bene pur<g ref="char:EOLunhyphen"/>chest in Rome sen the said xxiiij. day of August, ye ʒeir of God ane thou<g ref="char:EOLhyphen"/>sand, fyue hundreth, thre scoir ʒeiris, or vtherwayis to haue bene cōtra<g ref="char:EOLhyphen"/>tatit, antedait tit, or purchest blank sensyne, to be decernit, and declarit be the saidis Cōmissionaris null, inualide, and Insufficient, and to mak na Faith in tyme cūming, but ony farther proces of reductioun. And in case the persounis being chargeit to compeir for productioun of thair saidis Bullis, Prouisiounis, Takkis, Confirmatiounis, giftis, &amp; vtheris befoir specifyit failʒe thairin, being lauchfully chargeit sa to do, decreit salbe geuin aganis thame, declarand the samin Bullis, Prouisiounis, Takkis, giftis, and vtheris aboue expremit to be null, Inualide, &amp; In<g ref="char:EOLhyphen"/>sufficient in all tyme cūming, and it salbe lauchful to dispone the samin of new, notwithstanding ony allegeance of validitie that efter may be proponit.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>¶Ane Approbatioun of the Act maid anent the dispositioun of Benefices to the Ministeris of Christis Euangell. Cap. x.</head>
+               <p>
+                  <hi>ITEM</hi> Becaus thair hes bene sum questioun baith befoir ye Lordis of Sessioun, and Cōmissaris of Edinburgh, anent the declaratioun of the Act, and ordinance maid be the Quene, our Souerane Lordis Mother, with auise of the Lordis of Secreit Counsall for the tyme, and thairefter ratefyit in Parliament, anent the dispositioun of all Benefices, not exceding thre hūdreth merkis of ʒeirly rent, or within, to qualefyit Ministeris. Quhilk Act our Souerane Lord, with auise and cōsent of my Lord Regentis grace, the thre Esta<g ref="char:EOLhyphen"/>tis, and haill body of this present Parliament ratefyis, approuis, &amp; cō<g ref="char:EOLhyphen"/>firmis: ordinand the samin to hane full effect fra the day, &amp; dait yairof, notwithstanding ony exceptioun proponit, or to be proponit of nō pub<g ref="char:EOLhyphen"/>licatioun of the said Act. Seing the Quene, our Souerane Lord{is} mo<g ref="char:EOLhyphen"/>ther was sworne thairin, <hi>In verbo principis,</hi> neuer to cum in ye contrair yairof. And that the said Act hes generally takin effect, sen the making of ye samin, prouyding alwayis, that this present Act preiudge not the law of Patronis.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>¶Anent thame that sustenis the proces of Excommunicatioun. Cap. xi.</head>
+               <pb facs="tcp:21486:12"/>
+               <p>THE quhilk day our Souerane Lord, with auise of my Lord Re<g ref="char:EOLhyphen"/>gentis grace, the thre Estatis, and haill body of this present Par<g ref="char:EOLhyphen"/>liament, statutis and ordanis, that aganis all persounis Excōmunicate be ordour of the trew reformit Kirk within this Realme, letteris salbe direct be the Lordis of Counsall in all the four Formes, at the Instāce of the partie our Souerane Lordis Aduocate, or the Procuratouris of the Kirk, chargeing the Excōmunicate persounis (thay being Excōmu<g ref="char:EOLhyphen"/>nicate fourtie dayis) to satisfie the sentence or decreit pronoūcit aganis thame, and to recounsall thame selfis to the Kirk, &amp; submit yame selfis to the discipline thairof, vnder the pane of Rebellioū, and gif yai failʒe, to put thame to the horne, with letters of Captioun, and vtheris Exe<g ref="char:EOLhyphen"/>cutoriallis to pas thairupon, siclyke, and in the samin maner as was geuin in the Regne of our Souerane Lordis vmquhile Gudschir, a<g ref="char:EOLhyphen"/>ganis thame that sustenit the proces of Cursing attour the space of xl. dayis.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>¶Anent the reparatioun of the Paroche Kirkis. Cap. xj.</head>
+               <p>FOrsamekle as thair was ane Act maid in the Parliament haldin in the Moneth of Iunij, the ʒeir of God ane thousand, fyue hun<g ref="char:EOLhyphen"/>dreth, thre scoir thre ʒeiris, declarand, that quhatsumeuer ordour suld be maid and set furth be the Lordis of secreit Counsall, for vphal<g ref="char:EOLhyphen"/>ding and reparrelling of Kirkis, and Kirkʒairdis, and the executioū to be declarit be thame thairupon, to be sufficient, &amp; haue als greit strenth and effect, as and the samin had bene expresly contenit in the said Act of Parliament, as the samin at mair lenth proportis. According to the quhilk ane Act of secreit Counsall was maid, for the bigging, mending, and reparatioun of Paroche Kirkis, of the dait, at Striuiling the xiij. day of September, the ʒeir of God foirsaid. Quhilk Act as ʒit hes not tane executioun in na place, becaus of the fleuth &amp; vnwillingnes of the Parochinneirs quhilkis war slaw, and refusit to cheis persoūis to tart thair Nichtbouris, and that alswa thair was not Kirkmaisteris, or De<g ref="char:EOLunhyphen"/>aconis appointit in the Parochinnis, to ressaue the taxatioun appoin<g ref="char:EOLhyphen"/>tit. ¶ For remeid quhairof, our Souerane Lord, with auise of my Lord Regentis grace, the thre Estatis, and haill body of this present Parliament, ratefyis and approuis the foirsaidis Actis of Parliamēt, and of secreit Counsall, in all pointis, with this additioun, That quhair the Parochinneris being requyrit to elect and cheis persounis for mak<g ref="char:EOLhyphen"/>ing of the taxatioun, to the effect foirsaid, and gif thay refuse or delayis, or quhair thair is na Kirkmaisteris or Deaconis appointit, that than the Archebischop, Bischop, Superintendent, or Commissionar of the Kirkis, in tyme of thair Visitatioun, quhilk salbe betuix and the first day of Iunij nixt to cum, sall at thair discretioun nominate and appoint persounis in euerie Parochin, for making and setting of te taxatioun,
+<pb n="xii" facs="tcp:21486:12"/> as alswa for ressauing of the samin. And decernis and declaris ye said Nominatioun and appointment to be sufficient, and siclyke executioun sall pas for compelling of thame, as mycht haue bene geuin and gran<g ref="char:EOLhyphen"/>tit be vertew of the said Act of secreit Counsall, in case thay had bene electit be the Parochinueris. And becaus thair hes bene diuers Pa<g ref="char:EOLhyphen"/>roche Kirkis within this Realme demolischit, cassin doun and destroy<g ref="char:EOLhyphen"/>it, for the maist part, and that ane certane particular persounis hes ap<g ref="char:EOLhyphen"/>plyit the stanis, tymber, and vther graith pertening thairto, to thair awin particular vse and profite. ¶ Thairfoir ordanis ony ane of the Parochinneris of sic Kirkis to gif thair complaint to the Archebischop, Bischop, Superintendent, or Commissionar thairof, vpon sic persounis as thay pleis to complene vpon, and thay being lauchfully callit, &amp; Iust tryall takin in the said mater. And according to sufficient probatiours to be led and deducit thairintill, that the said Archebischop, Bischop, Superintendent, or Commissionar Pronunce, and gif furth thair De<g ref="char:EOLhyphen"/>creit thairintill. Quhilk decreit our Souerane Lord, with auise of his said derrest Regent, and thre Estatis foirsaidis, decernis, and declaris to be als sufficient, as and the samin war geuin befoir ony Iudge Or<g ref="char:EOLhyphen"/>dinar. And ordanis the Lordis of Counsall and Sessioun, to direct letteris of horning or poinding thairupon, at the will and plesure of ye partie, quha sall happin to complene. And siclyke our said Souerane Lord, with auise of his said derrest Regent, the thre Estatis, and haill body of this present Parliament, ordanis the persounes of all Paroche Kirkis within this Realme, to furre is breid and wyne to the Commu<g ref="char:EOLhyphen"/>nioun, how els the samin salbe Ministrat within the samin Kirkis.</p>
+               <p>
+                  <hi>¶Extractum de Libris Actorum Parliamenti per me Magistrum Iacobum Makgill, de Rankelour Nether, Clericum Rotulorum Registri ac consilij S. D. N. Regis sub meis signo &amp; subscriptione manualibus.</hi>
+               </p>
+               <closer>
+                  <signed>JACOBVS MARGILL</signed>
+               </closer>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="iii" facs="tcp:21486:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="iiii" facs="tcp:21486:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="v" facs="tcp:21486:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="vi" facs="tcp:21486:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="vii" facs="tcp:21486:19"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:20"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="viii" facs="tcp:21486:20"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:21"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="ix" facs="tcp:21486:21"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:22"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="x" facs="tcp:21486:22"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:23"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="xi" facs="tcp:21486:23"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:21486:24"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="xii" facs="tcp:21486:24"/>
+            </div>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:21486:25"/>
+            <head>¶The tabill of the atcis</head>
+            <list>
+               <item>ANent the Nominatioun, Electioun, acceptatioun, and approbatioun of my Lord of Mar in Regent. Cap. i.</item>
+               <item>¶Ratificatioun, and approbatiounis of the actis, and statutis maid of befoir, anent the fredome and libertie of the trew Kirk of God. Cap. ij.</item>
+               <item>¶Anent alienatiounis, resignatiounis, and vt<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eris maid, or to be maid be ony per<g ref="char:EOLhyphen"/>sounis conuict, or that sall happin to be conuict of the slauchteris of our Souerane Lordis Father, or Regentis. Cap. iij.</item>
+               <item>¶Anent the vassellis and fre tēnentis of sic as ar forfaltit in yis parliamēt. Ca. iiij.</item>
+               <item>¶Anent landis, rowmes, and possessiounis haldin of Freiris or Nunnis within yis Realme. Cap. v.</item>
+               <item>¶Anent the fredome, and Priuilegeis of Burrowis. Cap. vj.</item>
+               <item>¶Anent alienatioūis, resignatiounis, &amp; vtheris dispositiounis maid, &amp; geuin be ony persounis, Burgessis, and Inhabitantis of Edinburgh, or ony vther burrowis within this Realme that hes maid defectioun fra the Kingis authoritie. Ca. vij.</item>
+               <item>¶That na Schippis saill without our Souerane Lordis Coquet. Cap. viij.</item>
+               <item>¶Anent Herauldis, Maissaris, Purseuantis, and vtheris Officiaris that seruit aga<g ref="char:EOLhyphen"/>nis our Souerane Lord and his authoritie. Cap. ix.</item>
+               <item>¶Anent the escheirtis of the persounis cūmin to the Kingis obedience. Cap. x.</item>
+               <item>¶Anent Kirkmen that happinnis to be slane in our Souerane Lordis seruice in de<g ref="char:EOLhyphen"/>fence of his hienes authoritie. Cap. xj.</item>
+               <item>¶Anent the waird, releif, and Mariage of thame that sall happ<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to be slane in our Souerane Lordis seruice in defence of his Maiesteis authoritie Cap. xij.</item>
+               <item>☞Anent Possessiounis. Cap. xiij.</item>
+               <item>ANent the approbatioun, and confirmatioun of the Regiment. Cap. j.</item>
+               <item>❧Anent the trew and haly Kirk. Cap. ij.</item>
+               <item>❧That the aduersareis of Christis Euangell sall not Inioy the Patrimonie of the Kirk. Cap. iij.</item>
+               <item>☞Anent the disobedientis quhilkis salbe ressauit to our Souerane Lordis mercy and pardoun. Cap. iiij.</item>
+               <item>☞The explanatioun of the act maid anent Mansis and Glebis. Cap. v.</item>
+               <item>☞Anent the establisching of the Regiment in case at Goddis plesure that charge ʒit vaik, during the kingis Maiesteis Minoritie. Cap. vj.</item>
+               <item>☞Anent the possessouris of Benefices, Pensiounis, Portiounis, and vtheris Spiri<g ref="char:EOLhyphen"/>tuall Rentis, lyand at the horne attour the space of ʒeir and day. Cap. vij.</item>
+               <item>¶Approbatioun of the Actis and procedingis done in name and be authoritie of our Souerane Lord, and of the Inualiditie of all thingis attemptit in name or be cul<g ref="char:EOLhyphen"/>lour of ony vther authoritie sen his hienes Coronatioun. Cap. viij.</item>
+               <item>¶Anent purchessing of the Papis Gullis, or giftis of the Quene our Souerane Lor<g ref="char:EOLhyphen"/>dis Mother. Cap. ix.</item>
+               <item>¶Ane Approbatioun of the Act maid anent the dispositioun of Benefices to the Mi<g ref="char:EOLhyphen"/>nisteris of Christis Euangell. Cap. x.</item>
+               <item>¶Anent thame that sustenis the proces of Excommunicatioun. Cap. xj.</item>
+               <item>¶Anent the reparatioun of the Paroche Kirkis. Cap. xij.</item>
+            </list>
+            <trailer>FINIS TABVLAE.</trailer>
+            <pb facs="tcp:21486:25"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:26"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:26"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="iii" facs="tcp:21486:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:29"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="iiii" facs="tcp:21486:29"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="v" facs="tcp:21486:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="vi" facs="tcp:21486:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:32"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="vii" facs="tcp:21486:32"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:33"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="viii" facs="tcp:21486:33"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:34"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="ix" facs="tcp:21486:34"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:35"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="x" facs="tcp:21486:35"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:36"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="xi" facs="tcp:21486:36"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:37"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="xii" facs="tcp:21486:37"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:38"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:21486:38"/>
+         </div>
+      </body>
+   </text>
+</TEI>
